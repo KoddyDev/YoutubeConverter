@@ -1,0 +1,25 @@
+{
+    "app": {
+        "name": "Youtube Conversor",
+        "lang": [
+            {
+                "name": "pt-br",
+                "data": {
+                    "youtube": "Youtube!",
+                    "title": "Conversor do",
+                    "insert_url": "Insira um url para converter",
+                    "convert": "Converter"
+                }
+            },
+            {
+                "name": "en",
+                "data": {
+                    "youtube": "Youtube!",
+                    "title": "Conversor of",
+                    "insert_url": "Enter a url to convert",
+                    "convert": "Convertor"
+                }
+            }
+        ]
+    }
+}
